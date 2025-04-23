@@ -1,0 +1,13 @@
+::1 POST /api/test-login-variables 200 3.105 ms - 166
+::1 POST /api/login 401 539.133 ms - 55
+::1 POST /api/test-login-variables 200 0.907 ms - 157
+::1 POST /api/login 401 789.678 ms - 55
+::1 POST /api/test-login-variables 200 0.430 ms - 157
+::1 POST /api/login 401 96.078 ms - 55
+::1 POST /api/test-login-variables 200 0.384 ms - 147
+::1 POST /api/login 200 645.433 ms - 452
+::1 GET /api/verify-token 200 4.530 ms - 169
+::1 GET /api/verify-token 304 2.054 ms - -
+::1 GET /api/check-table-structure%20http://localhost:3001/api/test-query/teste@agendapro.com%20http://localhost:3001/api/fix-table-structure 404 2.159 ms - 271
+::1 GET /api/check-table-structure 200 564.561 ms - 1091
+::1 GET /api/test-query/teste@agendapro.com 200 545.811 ms - 88
